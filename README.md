@@ -1,7 +1,7 @@
 ## Hello, I'm Keyur Parkhi
 
-I’m a passionate and performance-driven data enthusiast with a strong foundation in **Statistics, Machine Learning, and NLP**, currently pursuing an **M.Sc. in Statistics & Data Science** at NMIMS Mumbai *(CGPA: 9.94/10)*. I also hold a **B.Sc. in Statistics** with a top-ranking CGPA of 9.97/10 and have been recognized with multiple academic excellence awards.
-I’m deeply curious about the **why** behind the numbers and committed to continuous learning in the field of data science and analytics.
+I’m a passionate and performance-driven data enthusiast with a strong foundation in **Statistics, Machine Learning, and NLP**, currently pursuing an **M.Sc. in Statistics & Data Science** at NMIMS Mumbai **(CGPA: 9.94/10)**. I also hold a **B.Sc. in Statistics** with a top-ranking CGPA of 9.97/10 and have been recognized with multiple academic excellence awards.
+I’m deeply curious about the **why** behind the numbers and committed to continuous learning in the field of data science and analytics. I’m open to **internships, research collaborations**, and **opportunities** in Data Science & Analytics to contribute to this data-driven world.
 
 ---
 
@@ -36,4 +36,4 @@ I’m deeply curious about the **why** behind the numbers and committed to conti
 - keyur.parkhi048@nmims.in  
 - [LinkedIn](https://www.linkedin.com/in/keyurparkhi/)  
 
-I’m open to **internships, research collaborations**, and **opportunities** in Data Science & Analytics.
+
