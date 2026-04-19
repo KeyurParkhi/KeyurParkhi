@@ -6,15 +6,15 @@ Open to opportunities, collaborations, and conversations in data-driven risk and
 ---
 
 ### Internships
-1) Morgan Stanley - Spring Analyst Intern - (MRM - FRM)  (Jan 2026 - Present)
+Morgan Stanley - Spring Analyst Intern - (MRM - FRM)  (Jan 2026 - Present)
 - Led end-to-end validation of machine learning risk models in NFR and Wealth Management, performing backtesting, drift diagnostics, LOFO analysis, and out-of-time stability checks using Python with metrics such as AUC, Gini, Recall, and MAD under SR 11-7 regulatory standards.
 - Delivered analytical assurance across 4K+ records by validating data integrity, optimizing model configurations via Grid/Bayesian methods, and producing reproducible reports and visualizations to ensure model robustness, transparency, and enterprise-level compliance.
 
-2) AlgoAnalytics - Data Science Trading Intern (Jul 2025 - Nov 2025)
+AlgoAnalytics - Data Science Trading Intern (Jul 2025 - Nov 2025)
 - Developed portfolio analytics and trading evaluation frameworks using Python (Pandas, NumPy) and Excel, computing returns, volatility, Alpha/Beta, and correlation structures across multiple benchmark indices to generate actionable investment insights.
 - Improved backtesting efficiency by ~20% through code optimization of value and momentum strategies, and implemented scalable XIRR-based performance analysis for multi-asset portfolios within a production-grade analytics environment.
 
-3) Cognifyz Technologies - Machine Learning Intern (Apr 2025 - May 2025)
+Cognifyz Technologies - Machine Learning Intern (Apr 2025 - May 2025)
 - Built and evaluated regression and classification models (Linear, Random Forest, XGBoost, LightGBM, SVM) on non-linear datasets to predict restaurant ratings and classify multi-cuisine patterns with improved predictive performance.
 - Performed geospatial and exploratory data analysis to identify location-based trends in pricing, ratings, and cuisine distribution, translating complex data into interpretable insights for decision-making.
 
@@ -45,7 +45,7 @@ Open to opportunities, collaborations, and conversations in data-driven risk and
 ---
 
 ### Key Projects
-- 
+- Built a reinforcement learning–driven dynamic pricing system (Q-Learning, PPO) on large-scale NYC taxi data, leveraging demand elasticity and ML models to achieve >70% revenue uplift, ~90% ride growth, and projected $8.47B annual impact over static/surge pricing strategies.
 - Built models for predicting **employee attrition** with 91% Recall and 0.97 AUC  
 - Developed **readmission risk classifiers** on the UCI Diabetes dataset, saving potential costs up to $3,500 per patient  
 - Created an **NLP pipeline using BioBERT** for clinical trial matching, improving F1-score from 0.62 to 0.68  
