@@ -45,7 +45,7 @@ Cognifyz Technologies - Machine Learning Intern (Apr 2025 - May 2025)
 ---
 
 ### Key Projects
-- Built a **reinforcement learning–driven dynamic pricing system** (Q-Learning, PPO) on large-scale NYC taxi data, leveraging demand elasticity and ML models to achieve >70% revenue uplift, ~90% ride growth, and projected $8.47B annual impact over static/surge pricing strategies.
+- Built a **reinforcement learning–driven dynamic pricing system** (Q-Learning, PPO) on large-scale NYC taxi data, leveraging demand elasticity and ML models to achieve >70% revenue uplift, ~90% ride growth, and projected $8.47M annual impact over static/surge pricing strategies.
 - Built models for predicting **employee attrition** with 91% Recall and 0.97 AUC  
 - Developed **readmission risk classifiers** on the UCI Diabetes dataset, saving potential costs up to $3,500 per patient  
 - Created an **NLP pipeline using BioBERT** for clinical trial matching, improving F1-score from 0.62 to 0.68  
