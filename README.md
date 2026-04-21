@@ -6,15 +6,15 @@ Open to opportunities, collaborations, and conversations in data-driven risk and
 ---
 
 ### Internships
-Morgan Stanley - Spring Analyst Intern - (MRM - FRM)  (Jan 2026 - Present)
+Morgan Stanley - Spring Analyst Intern - (MRM - FRM)                                                                 (Jan 2026 - Present)
 - Led end-to-end validation of machine learning risk models in NFR and Wealth Management, performing backtesting, drift diagnostics, LOFO analysis, and out-of-time stability checks using Python with metrics such as AUC, Gini, Recall, and MAD under SR 11-7 regulatory standards.
 - Delivered analytical assurance across 4K+ records by validating data integrity, optimizing model configurations via Grid/Bayesian methods, and producing reproducible reports and visualizations to ensure model robustness, transparency, and enterprise-level compliance.
 
-AlgoAnalytics - Data Science Trading Intern (Jul 2025 - Nov 2025)
+AlgoAnalytics - Data Science Trading Intern                                                                         (Jul 2025 - Nov 2025)
 - Developed portfolio analytics and trading evaluation frameworks using Python (Pandas, NumPy) and Excel, computing returns, volatility, Alpha/Beta, and correlation structures across multiple benchmark indices to generate actionable investment insights.
 - Improved backtesting efficiency by ~20% through code optimization of value and momentum strategies, and implemented scalable XIRR-based performance analysis for multi-asset portfolios within a production-grade analytics environment.
 
-Cognifyz Technologies - Machine Learning Intern (Apr 2025 - May 2025)
+Cognifyz Technologies - Machine Learning Intern                                                                     (Apr 2025 - May 2025)
 - Built and evaluated regression and classification models (Linear, Random Forest, XGBoost, LightGBM, SVM) on non-linear datasets to predict restaurant ratings and classify multi-cuisine patterns with improved predictive performance.
 - Performed geospatial and exploratory data analysis to identify location-based trends in pricing, ratings, and cuisine distribution, translating complex data into interpretable insights for decision-making.
 
